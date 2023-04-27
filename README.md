@@ -2,6 +2,7 @@
 Front End Developer, Lagos NG
 
 Connect with me:
+
 mailto:oluadebojnr@gmail.com
 
 https://twitter.com/ManyfacedG
