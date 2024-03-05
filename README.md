@@ -7,7 +7,7 @@ Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ManyfacedG) 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeola-adebowale-15b48b198)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeola-adebowale)
 
 ### 📊 Some Stats to impress you to hire me:
 ![](https://github-readme-stats.vercel.app/api?username=derkaiserr&theme=react&hide_border=false&include_all_commits=true&count_private=true) <br/>
